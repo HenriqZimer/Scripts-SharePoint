@@ -9,8 +9,8 @@ $WebLogoUrl = "/sites/TrustGroup19/_api/GroupService/GetGroupImage?id='d22aa4cd-
 $webUrl = "https://trustlog.sharepoint.com/sites/TrustGroup19"
 $onPrem = "0"
 $LibraryType = "3"
-$ListId = "22fd8692-95e1-43eb-8397-f007b5c18e8f"
-$ListTitle = "Comex Clientes 2021"
+$ListId = "7f91e134-c5b1-450a-b845-c9266b033320"
+$ListTitle = "Fiscal"
 $Scope = "OPENLIST"
 
 Do {
