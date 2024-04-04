@@ -9,8 +9,8 @@ $WebLogoUrl = "/sites/TrustGroup19/_api/GroupService/GetGroupImage?id='d22aa4cd-
 $webUrl = "https://trustlog.sharepoint.com/sites/TrustGroup19"
 $onPrem = "0"
 $LibraryType = "3"
-$ListId = "7f91e134-c5b1-450a-b845-c9266b033320"
-$ListTitle = "Fiscal"
+$ListId = "8cc16418-732b-4342-8861-229d1eb0b1fe"
+$ListTitle = "Despacho"
 $Scope = "OPENLIST"
 
 Do {
