@@ -1,5 +1,5 @@
 $UserId = ""
-$UserEmail = $env:USERNAME + "@trust.group"
+$UserEmail = $env:USERNAME + "laura.pasa@trust.group"
 $SiteId = "{b0538071-d508-4de6-a461-54cf8e4816d0}"
 $isSiteAdmin = "1"
 $WebId = "{87bcb753-c805-42d9-bad0-aa9bc035f0e8}"
